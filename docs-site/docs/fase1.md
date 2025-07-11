@@ -34,13 +34,19 @@ O AgroMart tem como foco:
 - Identificar oportunidades de melhoria com foco em **usabilidade**.
 - Garantir conformidade com os critérios da **norma ISO/IEC 25010**, com ênfase em:
 
-| Critério               | Ênfase |
-|------------------------|--------|
-| Usabilidade            | 5      |
-| Adequação Funcional    | 4      |
-| Confiabilidade         | 3      |
-| Eficiência             | 1      |
-| Segurança              | 1      |
+| Critério               | Ênfase                |
+|------------------------|-----------------------|
+| Usabilidade            | 5 — Essencial         |
+| Adequação Funcional    | 4 — Alta importância  |
+| Segurança              | 3 — Importância média |
+| Manutenibilidade       | 2 — Pouca importância |
+| Confiabilidade         | 2 — Pouca importância |
+| Desempenho             | 2 — Pouca importância |
+| Portabilidade          | 2 — Pouca importância |
+| Compatibilidade        | 1 — Sem importância   |
+
+
+
 
 ### Identificar Tipos de Produtos a Serem Avaliados
 
@@ -69,3 +75,21 @@ O AgroMart tem como foco:
 
 ## Q-Rapids – Integração com o Plano de Medição
 
+- O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma metodologia ágil que visa otimizar processos e sistemas através de pequenas mudanças implementadas e testadas em curtos períodos.
+
+### Figura XX – Diagrama do ciclo Q-Rapids
+
+<div style="text-align: center;">
+  <img src="assets/img/q_rapids.png" alt="Ciclo Q-Rapids" width="300px"/>
+  <p><em>Uma abordagem eficaz para garantir a melhoria contínua de produtos e processos.</em></p>
+</div>
+
+---
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                | Autor                     | Revisor                |
+|--------|------------|--------------------------|---------------------------|------------------------|
+| 1.0    | 11/07/2025 | Elaboração do propósito de avaliação | Augusto Campos | Algusto Rodigues      |
+
+---
