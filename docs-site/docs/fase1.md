@@ -91,5 +91,6 @@ O AgroMart tem como foco:
 | Versão | Data       | Descrição                | Autor                     | Revisor                |
 |--------|------------|--------------------------|---------------------------|------------------------|
 | 1.0    | 11/07/2025 | Elaboração do propósito de avaliação | Augusto Campos | Algusto Rodigues      |
+| 1.1    | 11/07/2025 | Correção dos criterios e introdução Q-Rapis | Algusto Rodriges | Augusto Duarte      |
 
 ---
