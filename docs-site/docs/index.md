@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Esta página é dedicada à documentação de todos os artefatos criados pela dupla **Roberta Williams** no primeiro semestre de 2025, na disciplina de **Qualidade de Software** da **Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB)**.
+Esta página é dedicada à documentação de todos os artefatos criados pela dupla da equipe **Roberta Williams** no primeiro semestre de 2025, na disciplina de **Qualidade de Software** da **Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB)**.
 
 Na figura 1 é possível encontrar a foto da mulher que nomeia o nosso grupo, **Roberta Williams**.
 
@@ -35,7 +35,7 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 | Versão | Data       | Descrição               | Autor                    | Revisor                |
 |--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Criação da página inicial | Algusto Rodrigues Caldas | —                      |
+| 1.0    | 11/07/2025 | Criação da página inicial | Algusto Rodrigues Caldas | Augusto Duarte         |
 
 ---
 
