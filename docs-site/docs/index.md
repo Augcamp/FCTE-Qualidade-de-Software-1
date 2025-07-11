@@ -35,7 +35,7 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 | Versão | Data       | Descrição               | Autor                    | Revisor                |
 |--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Criação da página inicial | Algusto Rodrigues Caldas | —                      |
+| 1.0    | 11/07/2025 | Criação da página inicial | Algusto Rodrigues Caldas | Augusto Campos Duarte |
 
 ---
 
