@@ -19,12 +19,12 @@ O AgroMart tem como foco:
 
 ### Repositórios do Projeto
 
-| Repositório                                               | Descrição                                                                                                                |
-|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [mobile-client](https://github.com/AgroMart/mobile-client) | Front-end do sistema, desenvolvido em **React Native**, responsável pela interface mobile utilizada pelos usuários.      |
-| [api](https://github.com/AgroMart/api)                     | Back-end principal da aplicação, implementado com **Strapi**, onde estão as funcionalidades de autenticação, produtos etc. |
-| [api-dicionario](https://github.com/AgroMart/api-dicionario) | Serviço responsável por armazenar as **URLs dos back-ends das CSAs** integradas. |                                                
-| [docs](https://github.com/AgroMart/docs)       | Documentação geral do projeto, incluindo requisitos, arquitetura e diretrizes de desenvolvimento. |
+| Repositório                                                  | Descrição                                                                                                                  |
+|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [mobile-client](https://github.com/AgroMart/mobile-client)   | Front-end do sistema, desenvolvido em **React Native**, responsável pela interface mobile utilizada pelos usuários.        |
+| [api](https://github.com/AgroMart/api)                       | Back-end principal da aplicação, implementado com **Strapi**, onde estão as funcionalidades de autenticação, produtos etc. |
+| [api-dicionario](https://github.com/AgroMart/api-dicionario) | Serviço responsável por armazenar as **URLs dos back-ends das CSAs** integradas.                                           |          
+| [docs](https://github.com/AgroMart/docs)                     | Documentação geral do projeto, incluindo requisitos, arquitetura e diretrizes de desenvolvimento.                          |
 
 
 
@@ -50,22 +50,22 @@ O AgroMart tem como foco:
 
 ### Identificar Tipos de Produtos a Serem Avaliados
 
-| Componente               | Descrição                                                                  |
-|--------------------------|-----------------------------------------------------------------------------|
-| Aplicativo Mobile        | Páginas principais do aplicativo, como login, cadastro, navegação etc.      |
+| Componente               | Descrição                                                                                                    |
+|--------------------------|--------------------------------------------------------------------------------------------------------------|
+| Aplicativo Mobile        | Páginas principais do aplicativo, como login, cadastro, navegação etc.                                       |
 | Imagens e Elementos UI   | Disposição visual dos elementos de interface e aspectos de acessibilidade visual (ex: suporte a daltonismo). |
 
 ### Especificar Modelo de Qualidade
 
-| Critério               | Subcaracterísticas Avaliadas                                                    |
-|------------------------|----------------------------------------------------------------------------------|
-| Usabilidade            | Facilidade de uso e aprendizado, com foco em:                                                              |
-|                        | - **Acessibilidade**: suporte a usuários com deficiência (ex: daltonismo, baixa visão).                    |
+| Critério               | Subcaracterísticas Avaliadas                                                            |
+|------------------------|-----------------------------------------------------------------------------------------|
+| Usabilidade            | Facilidade de uso e aprendizado, com foco em:                                           |
+|                        | - **Acessibilidade**: suporte a usuários com deficiência (ex: daltonismo, baixa visão). |
 
 ### Conexão com os Objetivos de Desenvolvimento Sustentável (ODS)
 
-| ODS     | Objetivo                                      | Contribuição do AgroMart                                                                 |
-|---------|-----------------------------------------------|------------------------------------------------------------------------------------------|
+| ODS     | Objetivo                                      | Contribuição do AgroMart                                                                |
+|---------|-----------------------------------------------|-----------------------------------------------------------------------------------------|
 | ODS 2   | Fome Zero e Agricultura Sustentável           | Conecta consumidores a produtores locais, incentivando produção agroecológica.          |
 | ODS 8   | Trabalho Decente e Crescimento Econômico      | Gera oportunidades digitais e renda para pequenos agricultores.                         |
 | ODS 9   | Inovação e Infraestrutura                     | Implementa tecnologia segura e acessível para o setor agro.                             |
@@ -75,7 +75,7 @@ O AgroMart tem como foco:
 
 ## Q-Rapids – Integração com o Plano de Medição
 
-- O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma metodologia ágil que visa otimizar processos e sistemas através de pequenas mudanças implementadas e testadas em curtos períodos.
+O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma metodologia ágil que visa otimizar processos e sistemas através de pequenas mudanças implementadas e testadas em curtos períodos.
 
 ### Figura XX – Diagrama do ciclo Q-Rapids
 
@@ -90,6 +90,6 @@ O AgroMart tem como foco:
 
 | Versão | Data       | Descrição                | Autor                     | Revisor                |
 |--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Elaboração do propósito de avaliação | Augusto Campos | Algusto Rodigues      |
+| 1.0    | 11/07/2025 | Elaboração do propósito de avaliação | Augusto Duarte | Algusto Rodrigues     |
 
 ---

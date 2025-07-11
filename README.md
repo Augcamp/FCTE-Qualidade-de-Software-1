@@ -23,8 +23,7 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição               | Autor                    | Revisor                |
-|--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues Caldas | Augusto Duarte                 |
-
+| Versão | Data       | Descrição         | Autor             | Revisor                |
+|--------|------------|-------------------|-------------------|------------------------|
+| 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues | Augusto Duarte         |
 ---
