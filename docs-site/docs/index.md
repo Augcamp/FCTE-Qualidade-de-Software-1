@@ -15,7 +15,7 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 ### Figura 1 – Roberta Lynn Williams
 
 <div style="text-align: center;">
-  <img src="assets/robertaWilliams_Pic.jpg" alt="Roberta Williams" width="300px"/>
+  <img src="assets/img//robertaWilliams_Pic.jpg" alt="Roberta Williams" width="300px"/>
   <p><em>Roberta Williams, pioneira dos jogos de aventura gráficos interativos.</em></p>
 </div>
 
