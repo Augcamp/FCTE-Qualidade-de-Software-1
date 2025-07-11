@@ -88,8 +88,9 @@ O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma met
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                | Autor                     | Revisor                |
-|--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Elaboração do propósito de avaliação | Augusto Duarte | Algusto Rodrigues     |
+| Versão | Data       | Descrição                                   | Autor                     | Revisor                |
+|--------|------------|---------------------------------------------|---------------------------|------------------------|
+| 1.0    | 11/07/2025 | Elaboração do propósito de avaliação        | Augusto Duarte            | Algusto Rodrigues      |
+| 1.1    | 11/07/2025 | Correção dos criterios e introdução Q-Rapis | Algusto Rodriges          | Augusto Duarte         |
 
 ---
