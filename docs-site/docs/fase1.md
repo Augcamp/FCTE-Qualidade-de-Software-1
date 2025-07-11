@@ -79,10 +79,8 @@ O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma met
 
 ### Figura XX – Diagrama do ciclo Q-Rapids
 
-<div style="text-align: center;">
-  <img src="assets/img/q_rapids.png" alt="Ciclo Q-Rapids" width="300px"/>
-  <p><em>Uma abordagem eficaz para garantir a melhoria contínua de produtos e processos.</em></p>
-</div>
+![Ciclo Q-Rapids](assets/img/q_rapids.png)
+*<p align="center"><em>Uma abordagem eficaz para garantir a melhoria contínua de produtos e processos.</em></p>*
 
 ---
 
