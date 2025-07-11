@@ -1,3 +1,8 @@
-site_name: Qualidade de Software
+site_name: Roberta Williams
 theme:
   name: material
+  locale: pt_BR
+  color_mode: auto
+  user_color_mode_toggle: true 
+  include_sidebar: true
+  
