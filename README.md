@@ -28,5 +28,3 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 | 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues Caldas | —                      |
 
 ---
-
-> _“Do. Or do not. There is no try.”_ — **Master Yoda**
